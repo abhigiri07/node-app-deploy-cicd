@@ -1,4 +1,4 @@
-# Node.js App — CI/CD with Jenkins
+# Node.js App — CI/CD with Jenkins with Webhook
 This project demonstrates the __CI/CD (Continuous Integration and Continuous Deployment)__ process for a __Node.js application using Jenkins and GitHub Webhooks__. The pipeline is designed to automatically build, test, and deploy the application whenever new code is pushed to the GitHub repository.
 
 By integrating Jenkins with GitHub, the deployment process becomes completely automated — eliminating manual intervention and ensuring that the latest code changes are always deployed seamlessly. This setup showcases key DevOps practices such as __automation, version control integration, and continuous delivery__, providing a practical example of how modern software teams can achieve faster and more reliable deployments
